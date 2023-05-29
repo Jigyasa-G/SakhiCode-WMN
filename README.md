@@ -1,7 +1,7 @@
 # SakhiCode-WMN
 Visit the Webapp here : https://sakhiweb-5e32c.web.app/
 
-Usage of Digital Ocean :
+Usage of Digital Ocean (The deployment was due because of the paywall, however, a brief of how we intend to implement various functionalities of Sakhi leveraging Digital Ocean ):
 
 DigitalOcean in the Sakhi:
 
